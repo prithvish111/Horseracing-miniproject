@@ -4,7 +4,6 @@ includes betting predictor and betting portal.
 Two databases:-
 -owner
 -horseracing 
-SQL files are uploaded
-
+SQL files are uploaded.
 
 -----------------------------------------------------------------------------------------------------------------------------
